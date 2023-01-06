@@ -1,4 +1,5 @@
-### Hi there 👋
+Fullstack Developer
+Looking for new technologies and ideas.
 
 <!--
 **art-temel/art-temel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
