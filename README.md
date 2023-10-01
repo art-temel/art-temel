@@ -1,6 +1,5 @@
 Fullstack Developer
-Looking for new technologies and ideas.
-
+Looking for new technologies and ideas_
 <!--
 **art-temel/art-temel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
